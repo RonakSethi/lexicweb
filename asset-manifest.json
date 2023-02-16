@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lexicweb/static/css/main.59890f13.css",
-    "main.js": "/lexicweb/static/js/main.2750c342.js",
+    "main.js": "/lexicweb/static/js/main.62d0175b.js",
     "static/js/787.b7b561c1.chunk.js": "/lexicweb/static/js/787.b7b561c1.chunk.js",
     "static/media/market-place-banner.png": "/lexicweb/static/media/market-place-banner.22126f68f919ca6f4a6b.png",
     "static/media/about-us-banner.png": "/lexicweb/static/media/about-us-banner.f3b14e07c17d79c79635.png",
@@ -39,11 +39,11 @@
     "static/media/prev-arrow.svg": "/lexicweb/static/media/prev-arrow.1d571e45736c2b1c00e0.svg",
     "static/media/menu.svg": "/lexicweb/static/media/menu.0775b9177a868d525c2a67e7c3aa0bc0.svg",
     "main.59890f13.css.map": "/lexicweb/static/css/main.59890f13.css.map",
-    "main.2750c342.js.map": "/lexicweb/static/js/main.2750c342.js.map",
+    "main.62d0175b.js.map": "/lexicweb/static/js/main.62d0175b.js.map",
     "787.b7b561c1.chunk.js.map": "/lexicweb/static/js/787.b7b561c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59890f13.css",
-    "static/js/main.2750c342.js"
+    "static/js/main.62d0175b.js"
   ]
 }
