@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.41dc7b1f.css",
-    "main.js": "./static/js/main.95c67b74.js",
+    "main.js": "./static/js/main.e330f6dc.js",
     "static/js/787.b7b561c1.chunk.js": "./static/js/787.b7b561c1.chunk.js",
     "static/media/market-place-banner.png": "./static/media/market-place-banner.22126f68f919ca6f4a6b.png",
     "static/media/about-us-banner.png": "./static/media/about-us-banner.f3b14e07c17d79c79635.png",
@@ -39,11 +39,11 @@
     "static/media/prev-arrow.svg": "./static/media/prev-arrow.1d571e45736c2b1c00e0.svg",
     "static/media/menu.svg": "./static/media/menu.0775b9177a868d525c2a67e7c3aa0bc0.svg",
     "main.41dc7b1f.css.map": "./static/css/main.41dc7b1f.css.map",
-    "main.95c67b74.js.map": "./static/js/main.95c67b74.js.map",
+    "main.e330f6dc.js.map": "./static/js/main.e330f6dc.js.map",
     "787.b7b561c1.chunk.js.map": "./static/js/787.b7b561c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41dc7b1f.css",
-    "static/js/main.95c67b74.js"
+    "static/js/main.e330f6dc.js"
   ]
 }
